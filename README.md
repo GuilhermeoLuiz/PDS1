@@ -9,7 +9,7 @@ Repositório destinado aos projetos e atividades práticas da disciplina de **Pr
 A disciplina foi conduzida pelo professor **Héctor Azpúrua** e pelo monitor **Maurício Ferrari Santos Corrêa**.
 
 * **Linguagem utilizada:** Linguagem C
-* **Tópicos abordados:** Estruturas de dados (listas, árvores, etc.), ponteiros, funções, manipulação de arquivos e outros conceitos de programação.
+* **Tópicos abordados:** Estruturas de dados, ponteiros, funções, manipulação de arquivos e outros conceitos de programação.
 
 ---
 
